@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://$MODULE_DIR$/../../docs/ia/Mason/mason/jar/mason.19.jar" />
+    <libelement value="file://$MODULE_DIR$/../../docs/ia/m/libraries/bsh-2.0b4.jar" />
+    <libelement value="file://$MODULE_DIR$/../../docs/ia/m/libraries/itext-1.2.jar" />
+    <libelement value="file://$MODULE_DIR$/../../docs/ia/m/libraries/jcommon-1.0.21.jar" />
+    <libelement value="file://$MODULE_DIR$/../../docs/ia/m/libraries/jfreechart-1.0.17.jar" />
+    <libelement value="file://$MODULE_DIR$/../../docs/ia/m/libraries/jmf.jar" />
+    <libelement value="file://$MODULE_DIR$/../../docs/ia/m/libraries/portfolio.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_15">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="jdk" jdkName="15" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/libraries" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/libraries" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="mason.20" level="project" />
+    <orderEntry type="module-library">
+      <library name="Maven: mason:mason:20">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libraries/mason.20.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
+    <orderEntry type="library" name="Maven: java3d:j3d-core:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: java3d:vecmath:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: java3d:j3d-core-utils:1.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.beanshell:bsh:2.0b4" level="project" />
+    <orderEntry type="library" name="Maven: com.lowagie:itext:1.2.3" level="project" />
+    <orderEntry type="library" name="Maven: org.jfree:jcommon:1.0.24" level="project" />
+    <orderEntry type="library" name="Maven: org.jfree:jfreechart:1.0.17" level="project" />
+    <orderEntry type="library" name="Maven: xml-apis:xml-apis:1.3.04" level="project" />
+    <orderEntry type="library" name="Maven: javax.media:jmf:2.1.1e" level="project" />
+  </component>
+</module>
